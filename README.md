@@ -8,9 +8,16 @@ Sam Chatbot lets you upload PDF documents (policies, manuals, course notes, hand
 
 **Author:** Divyesh Tiwari
 
-Built as part of the Unlox Academy Domain-Specific RAG Chatbot project.
-
 ---
+
+
+**Live demo:** https://sam-chatbotai.streamlit.app/
+
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sam-chatbotai.streamlit.app/)
+
+> The demo runs on Streamlit Community Cloud and may need a few seconds to wake up if it has been idle. Upload a PDF in the sidebar, click **Process Documents**, then ask your questions.
+
 
 ## Table of contents
 
